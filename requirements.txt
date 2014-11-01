@@ -1,0 +1,12 @@
+Django==1.6.5
+MySQL-python==1.2.5
+South==1.0.1
+amqp==1.4.6
+anyjson==0.3.3
+argparse==1.2.1
+billiard==3.3.0.18
+celery==3.1.16
+kombu==3.0.23
+pytz==2014.7
+simplejson==3.6.5
+wsgiref==0.1.2
